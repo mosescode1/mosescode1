@@ -10,7 +10,7 @@ A Backend Developer Transitioning into The frontEnd space using react and its bu
 * 🖥️  See my portfolio at [Ossigma](http://ossigma.tech)
 * ✉️  You can contact me at [iammoses19@gmail.com](mailto:iammoses19@gmail.com)
 * 🚀  I'm currently working on [Building an Ai application](http://ztm.com)
-* 🧠  I'm learning REACT
+* 🧠  I'm Building with express framework
 * 🤝  I'm open to collaborating on interesting project abd
 * ⚡  i'm a football lover , also watch animation
 
