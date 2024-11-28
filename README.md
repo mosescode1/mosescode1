@@ -1,18 +1,53 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eteng Moses Efa
-=======================================================================================================================================
+# Hi, I'm Eteng Moses Efa! 👋  
+**Software Engineer | Backend Developer Exploring Frontend with React**  
 
-A Software Engineer
--------------------
+---
 
-A Backend Developer Transitioning into The frontEnd space using react and its build tools
+### 🌍 About Me  
+I am a **Software Engineer** with a strong foundation in backend development, now transitioning into the frontend space with **React** and its build tools. My passion lies in building scalable, efficient systems and creating seamless user experiences.  
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Ossigma](http://ossigma.tech)
-* ✉️  You can contact me at [iammoses19@gmail.com](mailto:iammoses19@gmail.com)
-* 🚀  I'm currently working on Building my backend knowledge on system design and microservices
-* 🧠  I'm Building with express framework
-* 🤝  I'm open to collaborating on interesting project abd
-* ⚡  i'm a football lover , also watch animation
+---
+
+### 💡 What I Bring  
+- **Backend Expertise**: Proficient in building applications with the **Express.js** framework.  
+- **System Design**: Currently advancing my knowledge in designing scalable, distributed systems.  
+- **Microservices**: Focused on creating efficient and modular architectures.  
+- **Frontend Exploration**: Expanding skills in React to bridge backend performance with modern user interfaces.  
+
+---
+
+### 🚀 Portfolio  
+Check out my work: [Ossigma](http://ossigma.tech)  
+
+---
+
+### 📫 Contact Me  
+- Email: [iammoses19@gmail.com](mailto:iammoses19@gmail.com)  
+- Location: Nigeria  
+
+---
+
+### 🎯 Currently Working On  
+- Deepening expertise in **System Design** and **Microservices**.  
+- Building full-stack applications to refine the integration of backend and frontend systems.  
+
+---
+
+### 🤝 Open to Collaborations  
+I’m looking for innovative projects where I can:  
+- Leverage my backend expertise to build robust applications.  
+- Explore new challenges in frontend development with React.  
+
+---
+
+### ⚡ Fun Facts  
+- ⚽ I’m a big football enthusiast!  
+- 🎨 I enjoy watching animations and drawing inspiration from creative storytelling.  
+
+---
+
+Thanks for stopping by! 😊
+
 
 <a href="https://www.x.com/ossigma11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ossigma11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
