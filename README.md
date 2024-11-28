@@ -11,7 +11,7 @@ I am a **Software Engineer** with a strong foundation in backend development, My
 - **Backend Expertise**: Proficient in building applications with the **Express.js** framework.  
 - **System Design**: Currently advancing my knowledge in designing scalable, distributed systems.  
 - **Microservices**: Focused on creating efficient and modular architectures.  
-- **Frontend Exploration**: Expanding skills in React to bridge backend performance with modern user interfaces.  
+- **Backend Securities**: Expanding the world of Backend securities and industry standard implementations  
 
 ---
 
