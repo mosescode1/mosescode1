@@ -4,7 +4,7 @@
 ---
 
 ### 🌍 About Me  
-I am a **Software Engineer** with a strong foundation in backend development, now transitioning into the frontend space with **React** and its build tools. My passion lies in building scalable, efficient systems and creating seamless user experiences.  
+I am a **Software Engineer** with a strong foundation in backend development, My passion lies in building scalable, efficient systems and creating seamless user experiences.  
 
 ---
 
