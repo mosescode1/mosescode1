@@ -8,7 +8,7 @@ I am a **Software Engineer** with a strong foundation in backend development, My
 ---
 
 ### 💡 What I Bring  
-- **Backend Expertise**: Proficient in building applications with the **Express.js** framework.  
+- **Backend Expertise**: Proficient in building applications with the **Express.js** framework | fiber "Golang".  
 - **System Design**: Currently advancing my knowledge in designing scalable, distributed systems.  
 - **Microservices**: Focused on creating efficient and modular architectures.  
 - **Backend Securities**: Expanding the world of Backend securities and industry standard implementations  
@@ -21,7 +21,7 @@ Check out my work: [Ossigma](http://ossigma.tech)
 ---
 
 ### 📫 Contact Me  
-- Email: [iammoses19@gmail.com](mailto:iammoses19@gmail.com)  
+- Email: [iammoses19@gmail.com](mailto:emosescode@gmail.com)  
 - Location: Nigeria  
 
 ---
