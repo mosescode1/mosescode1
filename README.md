@@ -1,5 +1,5 @@
 # Hi, I'm Eteng Moses Efa! 👋  
-Software Engineer | Backend Developer | Exploring the world of Golang and Backend Securities
+Software Engineer | Backend Developer | Exploring the world of Golang and Backend Securities | backend Architectures
 ---
 
 ### 🌍 About Me  
