@@ -16,7 +16,7 @@ I am a **Software Engineer** with a strong foundation in backend development, My
 ---
 
 ### 🚀 Portfolio  
-Check out my work: [Ossigma](www.yareyare.software)  
+Check out my work: www.yareyare.software
 
 ---
 
