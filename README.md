@@ -21,7 +21,7 @@ Check out my work: www.yareyare.software
 ---
 
 ### 📫 Contact Me  
-- Email: [iammoses19@gmail.com](mailto:emosescode@gmail.com)  
+- Email: [emosescode@gmail.com](mailto:emosescode@gmail.com)  
 - Location: Nigeria  
 
 ---
