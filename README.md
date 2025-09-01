@@ -10,7 +10,7 @@ I am a **Software Engineer** with a strong foundation in backend development, My
 ### 💡 What I Bring  
 - **Backend Expertise**: Proficient in building applications with the **Express.js** framework | fiber "Golang".  
 - **System Design**: Currently advancing my knowledge in designing scalable, distributed systems.  
-- **Microservices**: Focused on creating efficient and modular architectures.  
+- **Microservices**: Focused on creating efficient and system architectures.  
 - **Backend Securities**: Expanding the world of Backend securities and industry standard implementations  
 
 ---
